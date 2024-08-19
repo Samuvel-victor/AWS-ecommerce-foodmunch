@@ -6,4 +6,4 @@
 
 3rd cloudfront : https://d36ditj60o56j5.cloudfront.net/
 
-4th Route 53 final project link: https://www.foodmunch.samuvel.top
+4th Route 53 final project link: https://foodmunch.samuvel.top/
